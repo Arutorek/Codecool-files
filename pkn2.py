@@ -3,7 +3,7 @@ import random
 
 
 
-# print ekranu startowego ww
+# print ekranu startowego
 
 def print_start_screen():
     print("Witaj w grze kpn \n \n wybierz kamien papier lub nozyce")
